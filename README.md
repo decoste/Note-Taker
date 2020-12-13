@@ -9,22 +9,20 @@ Note Taker
 ## Description
 This application can be used to write, save, and delete notes.
 
-Github repository: [Note-Taker](https://github.com/decoste/Note-Taker)
+Github repository: https://github.com/decoste/Note-Taker
 
 The following GIF demonstrates the application functionality:
 
 ![team profile generator demo](./public/assets/images/note.gif)
 
 ## Installation
-TBD
+Heroku link: 
 
 ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
-  * [Test](#test)
   * [Questions](#questions)
-  * [Test](#test)
   * [License](#license)
 
 ## Usage
@@ -36,9 +34,6 @@ If you would like to contribute, please check out the listed-below CONTRIBUTING 
 
 ## License
 MIT license
-
-## Test
-TBD
 
 ## Questions
 The following is my Github account:
