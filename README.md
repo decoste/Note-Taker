@@ -11,12 +11,14 @@ This application can be used to write, save, and delete notes.
 
 Github repository: https://github.com/decoste/Note-Taker
 
+The Heruko deployed site: https://ala-note.herokuapp.com/
+
 The following GIF demonstrates the application functionality:
 
 ![team profile generator demo](./public/assets/images/note.gif)
 
 ## Installation
-Heroku link: 
+Heroku link: https://ala-note.herokuapp.com/
 
 ## Table of Contents
   * [Installation](#installation)
