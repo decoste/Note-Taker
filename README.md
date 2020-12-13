@@ -20,13 +20,9 @@ Heroku link:
 
 ## Table of Contents
   * [Installation](#installation)
-  * [Usage](#usage)
   * [Contributing](#contributing)
   * [Questions](#questions)
   * [License](#license)
-
-## Usage
-  TBD
 
 ## Contributing
 If you would like to contribute, please check out the listed-below CONTRIBUTING file:
